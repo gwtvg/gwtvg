@@ -1,4 +1,5 @@
-# **GWTV Gold**
-*This Is GWTV Network.*
-***
-> See The Fun.
+**GWTV Gold**
+---
+- *This Is GWTV Network.*
+
+> **See The Fun.**
