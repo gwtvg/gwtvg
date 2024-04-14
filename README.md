@@ -1,5 +1,5 @@
-**GWTV Gold**
+**GWTV News**
 ---
-- *This Is GWTV Network.*
+- *This Is LI Qiaosheng Guye and Wangzai Television Network.*
 
 > **See The Fun.**
